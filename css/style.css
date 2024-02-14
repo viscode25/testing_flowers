@@ -62,6 +62,11 @@ body{
     margin-bottom: 20px;
 }
 
+.description span {
+    display: block; /* atau display: inline-block; */
+    margin-bottom: 5px; /* Untuk memberi jarak antar baris jika diinginkan */
+}
+
 .button a{
     text-decoration: none;
     font-size: 1rem;
